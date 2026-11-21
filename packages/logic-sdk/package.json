@@ -1,6 +1,6 @@
 {
   "name": "logic-sdk",
-  "version": "0.4.0",
+  "version": "0.5.0",
   "description": "Queries, mutations, actions and events for TypeScript apps. Transactions, after-commit events and scopes, on any runtime.",
   "keywords": [
     "actions",
@@ -91,7 +91,7 @@
     "@orpc/server": ">=2.0.0-beta.51 <3",
     "drizzle-orm": ">=1.0.0-rc.5 <2",
     "ai": ">=7 <8",
-    "@logic-sdk/cli": ">=0.4.0 <0.5.0"
+    "@logic-sdk/cli": ">=0.5.0 <0.6.0"
   },
   "peerDependenciesMeta": {
     "@orpc/server": {
